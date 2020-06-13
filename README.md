@@ -30,8 +30,8 @@
 
 ## Credits
 
-- The happy face icons are from Muhammad Haq at [freeicons.io](freeicons.io)
-- The 'oh yeah' noise is from user metrostock99 at [freesound.org](freesound.org)
+- The happy face icons are from Muhammad Haq at [freeicons.io](https://freeicons.io)
+- The 'oh yeah' noise is from user metrostock99 at [freesound.org](https://freesound.org)
 
 ## License
 
