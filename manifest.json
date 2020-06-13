@@ -1,0 +1,17 @@
+{
+  "name": "Good Job Button",
+  "version": "1.0.0",
+  "description": "A button for a job well done",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": {
+      "16": "images/happy-16.png",
+      "48": "images/happy-48.png",
+      "128": "images/happy-128.png"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  }
+}
