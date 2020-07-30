@@ -8,7 +8,8 @@
       "16": "images/happy-16.png",
       "48": "images/happy-48.png",
       "128": "images/happy-128.png"
-    }
+    },
+    "default_title": "Click me after a job well done!"
   },
   "background": {
     "scripts": ["background.js"],
